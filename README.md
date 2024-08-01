@@ -7,5 +7,3 @@ firebase init
 firebase login
 
 firebase deploy
-
-  
